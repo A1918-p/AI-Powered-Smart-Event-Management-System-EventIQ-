@@ -1,0 +1,3 @@
+Event_Type,Feedback,Sentiment,Polarity
+Tech Event,not so nice,Positive 😃,0.6
+Tech Event,disappointed,Negative 😞,-0.75
